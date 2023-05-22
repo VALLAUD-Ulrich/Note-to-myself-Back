@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=note_to_my_self
+
+1.0_init_sql 2022-09-26T08:58:04Z ,,, <edrago@edrago> # add BDD
+2.0_tag_sql 2022-10-11T16:11:00Z ,,, <edrago@edrago> # add tag
